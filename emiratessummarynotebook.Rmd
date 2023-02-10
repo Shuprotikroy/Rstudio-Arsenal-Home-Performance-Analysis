@@ -1,0 +1,60 @@
+---
+title: "Emirates Stadium Analysis 21/22"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document: default
+---
+
+# **Win % in Emirates Stadium**
+
+<br><br><br><br>
+
+![](emirates_stadium_FTR_percent.jpg)
+
+-   [Arsenal won a total of **68.42%** in their homeground showing a **strong dominance.**]{.underline}
+
+-   [Away Teams won **21.05% of the total games played in emirates stadium**]{.underline}
+
+-   [Draw results were a meagre **10.53%**]{.underline} <br><br><br><br><br><br><br><br><br><br><br>
+
+# **Distribution of Yellow Cards**
+
+![](emirates_stadium_YC.jpeg)
+
+-   Away team were given more yellow cards i.e. 35, hence **away teams commited more no of fouls**
+
+-   Home teams were given **31 Yellow Cards**<br><br><br><br><br><br><br><br><br><br><br>
+
+# Distribution of Fouls
+
+![](emirates_stadium_foulsshare.jpeg)
+
+-   Away Teams commited **more Fouls(i.e. 52.39%)**
+
+-   Home Teams commited **lesser Fouls(i.e. 47.61%)**
+
+-   The findings can be correlated with the number of yellow card findings and a conclusion can be drawn that **fouls commited and yellow cards given have a positive and a direct relationship.**<br><br><br><br><br><br><br><br><br><br><br>
+
+# No Of Goals scored by Away Teams in Emirates Stadium
+
+![](emirates_stadium_FTAG.jpg)
+
+-   Five teams have scored two goals in emirates stadium i.e.(**Man City, Liverpool, Crystal Palace, Brighton, Chelsea)**
+
+-   Seven teams have scored only one goal i.e. (**Wolves, Tottenham, Man United, Leeds, Everton, Brentford, Aston Villa)**
+
+-   Rest Teams haven't been able to score in the Emirates Stadium<br><br><br><br><br><br><br><br><br><br><br>
+
+# Shot Distribution in Emirates Stadium(Arsenal)
+
+![](emirates_stadium_TCSH.jpg)
+
+-   **347 Total Shots** have been taken by Arsenal
+
+-   Out of which, **116 have been on target**
+
+-   **196 i.e. majority of shots** have resulted in misses
+
+-   **35 shots have resulted in goals**
