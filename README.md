@@ -11,7 +11,7 @@ All Main Code lies within emiratessummarynotebook.Rmd
 
 - Shot Distribution
 
-# Refer to emiratessummarynotebook.nb (2).pdf to see the explained analysis
+## Refer to emiratessummarynotebook.nb (2).pdf to see the explained analysis
 
 
 
